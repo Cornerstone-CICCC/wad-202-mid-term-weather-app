@@ -60,8 +60,8 @@ Here are a few tips that can help you avoid some issues during the development o
 ## APIs
 
 - Current Weather: [OpenWeatherAPI - Current Weather](https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key})
-- 5 days Forecast: [OpenWeatherAPI - 5 days Forecast](https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key})
-- 3hr Forecast: [OpenWeatherAPI - 3 hour Forecast](https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key})
+
+- 5 days Forecast & 3hr Forecast: [OpenWeatherAPI - 3 hour Forecast](https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key})
 
 ## Deploy and Submission
 
